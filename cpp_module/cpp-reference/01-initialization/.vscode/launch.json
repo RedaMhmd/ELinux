@@ -8,13 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-<<<<<<< HEAD
-      "cwd": "/home/reda/Desktop/ELinux-labs/cpp_module/cpp-reference/01-initialization",
-      "program": "/home/reda/Desktop/ELinux-labs/cpp_module/cpp-reference/01-initialization/build/Debug/outDebug",
-=======
       "cwd": "/home/reda/Desktop/ELinux-labs/cpp_module/cpp-reference",
       "program": "/home/reda/Desktop/ELinux-labs/cpp_module/cpp-reference/build/Debug/outDebug",
->>>>>>> cpp-reference
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
