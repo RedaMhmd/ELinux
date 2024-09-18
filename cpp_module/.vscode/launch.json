@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/reda/Desktop/ELinux-labs/cpp_module/stl",
-      "program": "/home/reda/Desktop/ELinux-labs/cpp_module/stl/build/Debug/outDebug",
+      "cwd": "/home/reda/Desktop/ELinux-labs/cpp_module/primerPlus/oop_1",
+      "program": "/home/reda/Desktop/ELinux-labs/cpp_module/primerPlus/oop_1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
